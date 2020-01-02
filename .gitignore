@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.idea
+vendor
+logs
+docs/*
+!docs/.gitkeep
+logs/*
+config.json
+mk-m-biz-web
+tmp/*
+yapi-import.json
+mk-m-biz-web.exe
+.vscode
+reproduced.html
